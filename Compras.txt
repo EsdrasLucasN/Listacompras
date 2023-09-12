@@ -1,0 +1,9 @@
+Arroz;
+Feijão;
+Óleo de soja;
+Sal;
+Açúcar;
+Café;
+Molho de tomate;
+Macarrão;
+Milho;
