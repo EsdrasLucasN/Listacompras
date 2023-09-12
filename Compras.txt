@@ -7,3 +7,5 @@ Café;
 Molho de tomate;
 Macarrão;
 Milho;
+Carne
+Frango
